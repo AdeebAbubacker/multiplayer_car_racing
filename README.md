@@ -8,6 +8,18 @@ assets, since you can't have assets in DartPad (yet).
 I could of course have pulled in network assets, but decided that the
 challenge of not having any assets at all made it more fun.
 
+## Game Screenshot
+
+Here’s a glimpse of the gameplay:
+
+<div style="text-align: center;">
+  <img src="https://github.com/AdeebAbubacker/multiplayer_car_racing/blob/main/assets/Screenshot%202024-10-07%20031738.png" alt="SkyStrike Screenshot" width="600" style="border: 2px solid black;">
+</div>
+
+<div style="text-align: center;">
+  <img src="https://github.com/AdeebAbubacker/multiplayer_car_racing/blob/main/assets/Screenshot%202024-10-07%20032132.png" alt="SkyStrike Screenshot" width="600" style="border: 2px solid black;">
+</div>
+
 **Created by:** <span style="color:blue">Adeeb Abubacker</span>
 
 ## Developed for Windows Platform
