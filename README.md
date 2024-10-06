@@ -8,5 +8,5 @@ assets, since you can't have assets in DartPad (yet).
 I could of course have pulled in network assets, but decided that the
 challenge of not having any assets at all made it more fun.
 
-Created by: [Adeeb ABubacker]
+Created by: <span style="color:blue">Adeeb Abubacker</span>
 
