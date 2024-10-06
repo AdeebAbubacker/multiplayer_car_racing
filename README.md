@@ -22,7 +22,6 @@ To run the game on your Windows platform, follow these steps:
 
    ```bash
    git clone https://github.com/AdeebAbubacker/multiplayer_car_racing
-  ```bash
    cd multiplayer_car_racing
    rm -rf build
    flutter create .
