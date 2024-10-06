@@ -64,7 +64,7 @@ class Menu extends StatelessWidget {
                             style: textTheme.bodyMedium,
                           ),
                           TextSpan(
-                            text: 'Lukas Klingsbo (spydon)',
+                            text: 'Adeeb Labranjan',
                             style: textTheme.bodyMedium?.copyWith(
                               color: GameColors.green.color,
                               decoration: TextDecoration.underline,
