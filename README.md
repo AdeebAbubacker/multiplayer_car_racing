@@ -25,4 +25,4 @@ To run the game on your Windows platform, follow these steps:
    cd multiplayer_car_racing
    rm -rf build
    flutter create .
-   flutter build windows
+   flutter run -d windows
